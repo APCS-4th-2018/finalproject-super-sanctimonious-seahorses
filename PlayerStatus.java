@@ -20,4 +20,12 @@ public class PlayerStatus
         //x's turn: player == true
         //0's turn: player == false
     }
+    
+    public void displayPlayer()
+    {
+        //if player == true, display x
+        //if player == false, dispay o
+        
+    }
+    
 }
